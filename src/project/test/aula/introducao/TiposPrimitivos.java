@@ -4,6 +4,7 @@ package project.test.aula.introducao;
 //sout, para System.out.println()//
 //tipos primitivos: int, float, double, char, byte, boolean, short, long//
 
+
 import java.net.SocketOption;
 
 public class TiposPrimitivos {
