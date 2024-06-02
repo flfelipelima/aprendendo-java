@@ -20,6 +20,5 @@ public class TiposPrimitivos {
         System.out.println("A idade é: "+age+" anos.");
         System.out.println("char " +caractere);
         System.out.println(verdadeiro);
-
     }
 }
